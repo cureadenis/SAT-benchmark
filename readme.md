@@ -1,3 +1,7 @@
+# Benchmark Results
+The results have been collected all into the attached Excel file, being 1000 from [`uf50-218`](https://www.cs.ubc.ca/~hoos/SATLIB/Benchmarks/SAT/RND3SAT/uf50-218.tar.gz) and 5 more cut down versions of 
+`CBS_k3_n100_m403_b10_0` to showcase scaling.
+
 # SAT Solver
 
 This repository contains a simple SAT benchmarking script written in Python.
